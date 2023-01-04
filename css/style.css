@@ -1,0 +1,12 @@
+h1 {
+  color: red;
+  background-color: rgb(8, 255, 140);
+}
+
+li {
+  color: whitesmoke;
+  border-style: dotted;
+  background-color: blue;
+  text-align: center;
+  color: red;
+}
